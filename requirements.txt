@@ -1,0 +1,6 @@
+anthropic>=2.9,<3
+openai>=3.52,<4
+feedparser>=6.0.11
+requests>=2.32
+pyyaml>=6.0
+trafilatura>=2.0

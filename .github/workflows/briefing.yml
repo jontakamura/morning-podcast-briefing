@@ -1,0 +1,66 @@
+name: Build morning briefing
+
+# 15:00 UTC = 5:00 AM Hawaii time (HST has no daylight saving). Weekdays only;
+# Monday's briefing automatically includes everything published over the weekend.
+# Scheduled runs can start a little late on GitHub, so this leaves ~1h50m of slack before 6:50 AM.
+on:
+  schedule:
+    - cron: "0 15 * * 1-5"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: briefing-state
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - name: Install dependencies
+        run: |
+          which ffmpeg || (sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg)
+          pip install -q -r requirements.txt
+      - name: Fetch currently published site
+        run: |
+          git clone -q --depth 1 --branch gh-pages \
+            "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" site \
+            || mkdir -p site
+          rm -rf site/.git
+      - name: Catch up on anything new
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: python -m briefing ingest --budget-minutes 60
+      - name: Build briefing (script, audio, feed, email)
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          GMAIL_ADDRESS: ${{ secrets.GMAIL_ADDRESS }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+          SITE_URL: ${{ vars.SITE_URL }}
+        run: python -m briefing build
+      - name: Publish podcast feed
+        if: hashFiles('site/feed.xml') != ''
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ github.token }}
+          publish_dir: ./site
+          publish_branch: gh-pages
+          force_orphan: true
+      - name: Save state
+        if: always()
+        run: |
+          git config user.name "morning-briefing-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add state
+          git diff --cached --quiet || (git commit -q -m "Update state (briefing)" && git pull -q --rebase && git push -q)

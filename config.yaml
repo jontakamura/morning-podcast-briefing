@@ -1,0 +1,55 @@
+# Morning Briefing configuration.
+# Edit this file to add/remove sources. Changes take effect on the next run.
+
+briefing:
+  title: "Morning Briefing"
+  timezone: "Pacific/Honolulu"
+  # Claude model used for summaries and the spoken script.
+  claude_model: "claude-opus-5-5"
+  # OpenAI text-to-speech voice + style.
+  tts_model: "gpt-4o-mini-tts"
+  tts_voice: "ash"
+  tts_style: >-
+    Direct but friendly morning news host. Clear, confident, upbeat without being
+    peppy. Natural conversational pace, slightly brisk. Brief pauses between segments.
+  transcribe_model: "gpt-4o-mini-transcribe"
+  # Only look at episodes/articles published within this many days.
+  max_age_days: 4
+  # Max new items to process per source per run (protects against floods).
+  per_source_cap: 3
+  # How many past briefings to keep in the podcast feed.
+  keep_episodes: 21
+
+# priority: true sources always lead the briefing and get a deeper treatment.
+# Optional per-source fields:
+#   feed:   pin an exact RSS feed URL (otherwise looked up in Apple's directory)
+#   author: helps pick the right show when the name is ambiguous
+#   enabled: false  to pause a source without deleting it
+podcasts:
+  - { name: "Founders", author: "David Senra", priority: true }
+  - { name: "David Senra", author: "David Senra", priority: true }
+  - { name: "Invest Like the Best with Patrick O'Shaughnessy", author: "Colossus", priority: true }
+  - { name: "Acquired", author: "Ben Gilbert" }
+  - { name: "BG2Pod with Brad Gerstner and Bill Gurley" }
+  - { name: "Business Breakdowns", author: "Colossus" }
+  - { name: "Capital Allocators – Inside the Institutional Investment Industry", author: "Ted Seides" }
+  - { name: "Dan Carlin's Hardcore History", author: "Dan Carlin" }
+  - { name: "Epsilon Theory Podcast" }
+  - { name: "Masters in Business", author: "Bloomberg" }
+  - { name: "Naval" }
+  - { name: "Permanent Podcast", author: "Permanent Equity" }
+  - { name: "Plain English with Derek Thompson", author: "Ringer" }
+  - { name: "Private Equity Deals with Capital Allocators", author: "Ted Seides" }
+  - { name: "Smart Friends", author: "Eric Jorgenson" }
+  - { name: "The Bill Simmons Podcast", author: "Ringer" }
+  - { name: "The Knowledge Project", author: "Farnam Street" }
+  - { name: "The Sweet Spot - Golf Podcast" }
+  - { name: "The Tim Ferriss Show", author: "Tim Ferriss" }
+  - { name: "Think Like an Owner" }
+  - { name: "ToKCast", author: "Brett Hall" }
+
+# Research / thought-piece websites. Give the site (or its "insights"/"research" page).
+# The RSS feed is found automatically; if a site has none, new links on the page are tracked.
+#   - { name: "Example Research", url: "https://example.com/research" }
+#   - { name: "Some Blog", feed: "https://example.com/feed.xml" }
+websites: []
