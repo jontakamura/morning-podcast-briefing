@@ -1,5 +1,6 @@
 """Find podcast/website feeds and list new items."""
 import hashlib
+import os
 import re
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
@@ -86,7 +87,9 @@ def resolve_sources(cfg: dict) -> list[dict]:
                 continue
             key = f"{kind}:{src['name']}"
             info = dict(cache.get(key, {}))
-            if src.get("feed"):
+            if src.get("feed_env") and os.environ.get(src["feed_env"]):
+                info = {"feed": os.environ[src["feed_env"]]}  # private URL: never written to state
+            elif src.get("feed"):
                 info = {"feed": src["feed"]}
             elif not info.get("feed") and not info.get("page"):
                 try:
@@ -148,7 +151,7 @@ def list_new_items(src: dict, known: dict, max_age_days: int, cap: int) -> list[
         if src["kind"] == "podcast" and not audio:
             continue
         guid = e.get("id") or audio or link
-        item_id = _id("pod" if src["kind"] == "podcast" else "web", src["feed"], guid)
+        item_id = _id("pod" if src["kind"] == "podcast" else "web", src["key"], guid)
         if item_id in known:
             continue
         content = ""
@@ -186,7 +189,10 @@ def _list_page_links(src: dict, known: dict, cap: int) -> list[dict]:
         pu = urlparse(u)
         if pu.netloc != parsed.netloc or u.rstrip("/") == page.rstrip("/"):
             continue
-        if not pu.path.startswith(parsed.path.rstrip("/") + "/") or len(pu.path.strip("/").split("/")) < 2:
+        if src.get("link_pattern"):
+            if not re.search(src["link_pattern"], pu.path) or pu.path.rstrip("/") == parsed.path.rstrip("/"):
+                continue
+        elif not pu.path.startswith(parsed.path.rstrip("/") + "/") or len(pu.path.strip("/").split("/")) < 2:
             continue
         if u not in links:
             links.append(u)
@@ -199,10 +205,10 @@ def _list_page_links(src: dict, known: dict, cap: int) -> list[dict]:
     new = [u for u in links if u not in prev][:cap]
     now = utcnow().isoformat()
     return [{
-        "id": _id("web", page, u), "kind": "website", "source": src["name"], "source_key": src["key"],
+        "id": _id("web", src["key"], u), "kind": "website", "source": src["name"], "source_key": src["key"],
         "priority": src["priority"], "order": src["order"], "title": "", "link": u, "audio": None,
         "published": now, "duration": "", "notes": "", "transcript_urls": [],
-    } for u in new if _id("web", page, u) not in known]
+    } for u in new if _id("web", src["key"], u) not in known]
 
 
 def article_text(item: dict) -> str:

@@ -2,7 +2,7 @@
 # Edit this file to add/remove sources. Changes take effect on the next run.
 
 briefing:
-  title: "Morning Briefing"
+  title: "Morning Podcast Briefing"
   timezone: "Pacific/Honolulu"
   # Claude model used for summaries and the spoken script.
   claude_model: "claude-opus-5-5"
@@ -52,4 +52,10 @@ podcasts:
 # The RSS feed is found automatically; if a site has none, new links on the page are tracked.
 #   - { name: "Example Research", url: "https://example.com/research" }
 #   - { name: "Some Blog", feed: "https://example.com/feed.xml" }
-websites: []
+#   feed_env: NAME   use a private feed URL stored as a GitHub secret (e.g. a paid subscriber feed)
+#   link_pattern:    for sites with no feed, only count links whose path matches this regex
+websites:
+  # Public feed = free articles + Daily Update excerpts. If you subscribe to Stratechery Plus, add your
+  # personal RSS URL as the STRATECHERY_FEED secret to get full Daily Updates.
+  - { name: "Stratechery", url: "https://stratechery.com/", feed: "https://stratechery.com/feed/", feed_env: STRATECHERY_FEED }
+  - { name: "Howard Marks Memos (Oaktree)", url: "https://www.oaktreecapital.com/insights/memos", link_pattern: "/insights/memo" }
