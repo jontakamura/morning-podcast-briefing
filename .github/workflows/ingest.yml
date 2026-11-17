@@ -35,7 +35,7 @@ jobs:
       - name: Save state
         if: always()
         run: |
-          git config user.name "morning-briefing-bot"
+          git config user.name "morning-podcast-briefing-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add state
           git diff --cached --quiet || (git commit -q -m "Update state (ingest)" && git pull -q --rebase && git push -q)

@@ -1,4 +1,4 @@
-# Morning Briefing
+# Morning Podcast Briefing (`morning-podcast-briefing`)
 
 A private daily podcast plus an email covering the podcasts and research sites you follow. Each item gets a
 **summary**, **key takeaways** and **one memorable quote**. It plays in Apple Podcasts, so it works on CarPlay.
