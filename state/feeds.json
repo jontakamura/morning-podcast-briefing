@@ -1,0 +1,110 @@
+{
+  "podcast:Acquired": {
+    "feed": "https://feeds.transistor.fm/acquired",
+    "found_author": "Ben Gilbert and David Rosenthal",
+    "found_name": "Acquired"
+  },
+  "podcast:BG2Pod with Brad Gerstner and Bill Gurley": {
+    "feed": "https://anchor.fm/s/f06c2370/podcast/rss",
+    "found_author": "BG2Pod",
+    "found_name": "BG2Pod with Brad Gerstner and Bill Gurley"
+  },
+  "podcast:Business Breakdowns": {
+    "feed": "https://feeds.megaphone.fm/breakdowns",
+    "found_author": "Colossus | Investing & Business Podcasts",
+    "found_name": "Business Breakdowns"
+  },
+  "podcast:Capital Allocators – Inside the Institutional Investment Industry": {
+    "feed": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
+    "found_author": "Ted Seides – Allocator and Asset Management Expert",
+    "found_name": "Capital Allocators – Inside the Institutional Investment Industry"
+  },
+  "podcast:Dan Carlin's Hardcore History": {
+    "feed": "https://feeds.feedburner.com/dancarlin/history?format=xml",
+    "found_author": "Dan Carlin",
+    "found_name": "Dan Carlin's Hardcore History"
+  },
+  "podcast:David Senra": {
+    "feed": "https://feeds.megaphone.fm/david-senra",
+    "found_author": "Scicomm Media",
+    "found_name": "David Senra"
+  },
+  "podcast:Epsilon Theory Podcast": {
+    "feed": "https://feeds.soundcloud.com/users/soundcloud:users:27653596/sounds.rss",
+    "found_author": "Ben Hunt",
+    "found_name": "Epsilon Theory Podcast"
+  },
+  "podcast:Founders": {
+    "feed": "https://feeds.megaphone.fm/DSLLC6297708582",
+    "found_author": "David Senra",
+    "found_name": "Founders"
+  },
+  "podcast:Invest Like the Best with Patrick O'Shaughnessy": {
+    "feed": "https://feeds.megaphone.fm/CLS2859450455",
+    "found_author": "Colossus | Investing & Business Podcasts",
+    "found_name": "Invest Like the Best with Patrick O'Shaughnessy"
+  },
+  "podcast:Masters in Business": {
+    "feed": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/4e4cd910-40a1-4619-a5f3-ae2b0012ffff/5873a3cb-298f-40bc-b71f-ae2b0013000d/podcast.rss",
+    "found_author": "Bloomberg",
+    "found_name": "Masters in Business"
+  },
+  "podcast:Naval": {
+    "feed": "https://rss.libsyn.com/shows/166112/destinations/1103966.xml",
+    "found_author": "Naval",
+    "found_name": "Naval"
+  },
+  "podcast:Permanent Podcast": {
+    "feed": "https://rss.libsyn.com/shows/213314/destinations/1543280.xml",
+    "found_author": "Permanent Equity",
+    "found_name": "Permanent Podcast: Real Talk About Private Equity and Buying, Selling, and Operating Small Businesses"
+  },
+  "podcast:Plain English with Derek Thompson": {
+    "feed": "https://feeds.megaphone.fm/plain-english",
+    "found_author": "The Ringer",
+    "found_name": "Plain English with Derek Thompson"
+  },
+  "podcast:Private Equity Deals with Capital Allocators": {
+    "feed": "https://feeds.megaphone.fm/CALLC8761131277",
+    "found_author": "Ted Seides – Allocator and Asset Management Expert",
+    "found_name": "Private Equity Deals with Capital Allocators"
+  },
+  "podcast:Smart Friends": {
+    "feed": "https://feeds.megaphone.fm/SOMC8581176390",
+    "found_author": "Eric Jorgenson",
+    "found_name": "Smart Friends"
+  },
+  "podcast:The Bill Simmons Podcast": {
+    "feed": "https://feeds.megaphone.fm/the-bill-simmons-podcast",
+    "found_author": "The Ringer",
+    "found_name": "The Bill Simmons Podcast"
+  },
+  "podcast:The Knowledge Project": {
+    "feed": "https://feeds.megaphone.fm/FSMI7575968096",
+    "found_author": "Shane Parrish",
+    "found_name": "The Knowledge Project"
+  },
+  "podcast:The Sweet Spot - Golf Podcast": {
+    "feed": "https://feeds.megaphone.fm/BLU3125919456",
+    "found_author": "Adam Young/Jon Sherman",
+    "found_name": "The Sweet Spot - Golf Podcast"
+  },
+  "podcast:The Tim Ferriss Show": {
+    "feed": "https://rss.art19.com/tim-ferriss-show",
+    "found_author": "Tim Ferriss: Bestselling Author, Human Guinea Pig",
+    "found_name": "The Tim Ferriss Show"
+  },
+  "podcast:Think Like an Owner": {
+    "feed": "https://rss.libsyn.com/shows/585035/destinations/5075260.xml",
+    "found_author": "Alex Bridgeman",
+    "found_name": "Think Like an Owner"
+  },
+  "podcast:ToKCast": {
+    "feed": "https://feed.podbean.com/brettroberthall/feed.xml",
+    "found_author": "Brett Hall",
+    "found_name": "ToKCast"
+  },
+  "website:Howard Marks Memos (Oaktree)": {
+    "page": "https://www.oaktreecapital.com/insights/memos"
+  }
+}
