@@ -1,6 +1,6 @@
 {
   "pod:20d65286a3ae6b03": {
-    "attempts": 1,
+    "attempts": 2,
     "audio": "https://traffic.libsyn.com/secure/tedseides/CA_-_EP.527_Paul_Enright_-_AUDIO_V2.mp3?dest-id=482814",
     "duration": "47:47",
     "error": "\"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for the `Authorization` header to be explicitly omitted\"",
@@ -17,7 +17,7 @@
     "title": "Single-Manager Hedge Funds, Pod Shops, and the Age of AI – Paul Enright (EP.527)"
   },
   "pod:2b24ed2e39d077e1": {
-    "attempts": 1,
+    "attempts": 2,
     "audio": "https://traffic.megaphone.fm/GLT4017114951.mp3",
     "duration": "3816",
     "error": "\"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for the `Authorization` header to be explicitly omitted\"",
@@ -33,8 +33,42 @@
     "status": "failed",
     "title": "Jensen Huang’s Downfall Is So Much More Than a Sex Scandal"
   },
-  "pod:776253b4c81302ed": {
+  "pod:4e34cb11b8ccc162": {
     "attempts": 1,
+    "audio": "https://traffic.megaphone.fm/CLS6783435309.mp3",
+    "duration": "5062",
+    "error": "\"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for the `Authorization` header to be explicitly omitted\"",
+    "id": "pod:4e34cb11b8ccc162",
+    "kind": "podcast",
+    "link": "https://colossus.com/episode/restoring-the-american-dream/",
+    "notes": "My guests today are Brad Gerstner, founder of Altimeter Capital, and Geoffrey Canada, founder of Harlem Children's Zone. Geoffrey spent decades helping disadvantaged kids get a great education, but it takes more than that to achieve the American dream. Without savings, you’re one emergency away from bankruptcy.\n\n Brad set out to change that. When he first called me about Invest America in 2020, I thought it was a fool’s errand. Six years later, nearly 70 million children have accounts in their name, and every American newborn receives $1,000 in the S&P 500. The challenge now is getting families to claim their accounts, since free money is surprisingly hard to give away.\n\n Brad and Geoffrey believe even a small nest egg, when given a head start on compounding, can help rebuild faith in capitalism. As AI reshapes the economy, they see these accounts as the basis of a new social contract built on ownership and participation, where every child owns a piece of the upside.\n\n Please enjoy my conversation with Brad and Geoffrey.\n\n For the full show notes, transcript, and links to mentioned content, check out the episode page ⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠here⁠⁠⁠⁠⁠ ⁠ . \n\n ----- \n\n Become a Colossus member to get our quarterly print magazine and private audio experience, including exclusive profiles and early access to select episodes. Subscribe at ⁠ ⁠colossus.com/subscribe⁠ ⁠ .\n\n ----- \n\n ⁠ ⁠Ramp’s⁠ ⁠ mission is to help companies manage their spend in a way that reduces expenses and frees up time ",
+    "order": 2,
+    "priority": true,
+    "published": "2026-11-17T13:00:00+00:00",
+    "source": "Invest Like the Best with Patrick O'Shaughnessy",
+    "source_key": "podcast:Invest Like the Best with Patrick O'Shaughnessy",
+    "status": "failed",
+    "title": "Brad Gerstner & Geoffrey Canada - Raising the Floor for Every American Child - [Invest Like the Best, EP.501]"
+  },
+  "pod:591589f87c4e24e6": {
+    "attempts": 1,
+    "audio": "https://traffic.megaphone.fm/DSLLC2370821068.mp3",
+    "duration": "2972",
+    "error": "\"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for the `Authorization` header to be explicitly omitted\"",
+    "id": "pod:591589f87c4e24e6",
+    "kind": "podcast",
+    "link": "",
+    "notes": "What I learned from rereading Born of This Land: My Life Story by Chung Ju-yung.\n\n Made possible by: \n\n Ramp: ⁠ https://ramp.com \n\n AppLovin: ⁠https://applovin.com \n\n Vanta: ⁠ https://vanta.com/founders",
+    "order": 0,
+    "priority": true,
+    "published": "2026-11-17T19:10:00+00:00",
+    "source": "Founders",
+    "source_key": "podcast:Founders",
+    "status": "failed",
+    "title": "#440 The Most Inspiring Autobiography I've Ever Read: Born of This Land: Chung Ju-yung"
+  },
+  "pod:776253b4c81302ed": {
+    "attempts": 2,
     "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/4e4cd910-40a1-4619-a5f3-ae2b0012ffff/d1a72748-c528-4a61-baa7-b501011787d8/audio.mp3?utm_source=Podcast&in_playlist=5873a3cb-298f-40bc-b71f-ae2b0013000d",
     "duration": "3095",
     "error": "\"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for the `Authorization` header to be explicitly omitted\"",
@@ -51,7 +85,7 @@
     "title": "Investing in Financial Security: Masters in Business with Salim Ramji"
   },
   "pod:7a6dde17382fc02e": {
-    "attempts": 1,
+    "attempts": 2,
     "audio": "https://traffic.libsyn.com/secure/tedseides/CA_-_EP.266_Paul_Enright_-_REPLAY_2026_V1.mp3?dest-id=482814",
     "duration": "01:06:46",
     "error": "\"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for the `Authorization` header to be explicitly omitted\"",
@@ -68,7 +102,7 @@
     "title": "[REPLAY] Paul Enright – Inside Long-Short Equity Investing (Capital Allocators, EP.266)"
   },
   "pod:832b9b336e4560e5": {
-    "attempts": 1,
+    "attempts": 2,
     "audio": "https://traffic.megaphone.fm/GLT4781945301.mp3",
     "duration": "3966",
     "error": "\"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for the `Authorization` header to be explicitly omitted\"",
@@ -85,7 +119,7 @@
     "title": "Who Killed the Internet's Business Model?"
   },
   "pod:8a542b6d51774220": {
-    "attempts": 1,
+    "attempts": 2,
     "audio": "https://traffic.megaphone.fm/SCIM2166385190.mp3",
     "duration": "4099",
     "error": "\"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for the `Authorization` header to be explicitly omitted\"",
@@ -102,7 +136,7 @@
     "title": "What It Means to Be a “Real” Entrepreneur | Michael Rubin, Fanatics"
   },
   "pod:f0a1e294efcb38a1": {
-    "attempts": 1,
+    "attempts": 2,
     "audio": "https://pdst.fm/e/traffic.megaphone.fm/GLT4924946211.mp3",
     "duration": "6203",
     "error": "\"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for the `Authorization` header to be explicitly omitted\"",
@@ -119,7 +153,7 @@
     "title": "Bill and Sal’s Pity Party, Burrow’s MVP Party, President Cousins, and Guess the Lines With Cousin Sal"
   },
   "pod:f91f4bca985541f3": {
-    "attempts": 1,
+    "attempts": 2,
     "audio": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/441/claritaspod.com/measure/prfx.byspotify.com/e/traffic.megaphone.fm/PRACTG1053793847.mp3",
     "duration": "4869",
     "error": "\"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for the `Authorization` header to be explicitly omitted\"",
@@ -136,7 +170,7 @@
     "title": "What Every Golfer Gets Wrong About Pain and Injuries w/ Par 4 Success"
   },
   "web:76a448bd2e04c52b": {
-    "attempts": 1,
+    "attempts": 2,
     "audio": null,
     "duration": "",
     "error": "\"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for the `Authorization` header to be explicitly omitted\"",
@@ -170,7 +204,7 @@
     "title": "2026.46: The End of Jensen"
   },
   "web:d6aef4f936cb4049": {
-    "attempts": 1,
+    "attempts": 2,
     "audio": null,
     "duration": "",
     "error": "\"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for the `Authorization` header to be explicitly omitted\"",
