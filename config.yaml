@@ -55,7 +55,6 @@ podcasts:
 #   feed_env: NAME   use a private feed URL stored as a GitHub secret (e.g. a paid subscriber feed)
 #   link_pattern:    for sites with no feed, only count links whose path matches this regex
 websites:
-  # Public feed = free articles + Daily Update excerpts. If you subscribe to Stratechery Plus, add your
-  # personal RSS URL as the STRATECHERY_FEED secret to get full Daily Updates.
-  - { name: "Stratechery", url: "https://stratechery.com/", feed: "https://stratechery.com/feed/", feed_env: STRATECHERY_FEED }
+  # Public feed: free articles in full; subscriber-only Daily Updates appear as previews.
+  - { name: "Stratechery", url: "https://stratechery.com/", feed: "https://stratechery.com/feed/" }
   - { name: "Howard Marks Memos (Oaktree)", url: "https://www.oaktreecapital.com/insights/memos", link_pattern: "/insights/memo" }
