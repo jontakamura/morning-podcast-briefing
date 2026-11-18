@@ -1,6 +1,6 @@
 {
   "pod:20d1737ac4c66f19": {
-    "attempts": 2,
+    "attempts": 3,
     "audio": "https://traffic.megaphone.fm/SCIM9016341232.mp3",
     "duration": "3628",
     "error": "\"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for the `Authorization` header to be explicitly omitted\"",
@@ -119,7 +119,7 @@
     "title": "[REPLAY] Paul Enright – Inside Long-Short Equity Investing (Capital Allocators, EP.266)"
   },
   "pod:7c2bb49cdbb13926": {
-    "attempts": 1,
+    "attempts": 2,
     "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/4e4cd910-40a1-4619-a5f3-ae2b0012ffff/2a85af0b-9003-4e1b-acfb-b506012b0391/audio.mp3?utm_source=Podcast&in_playlist=5873a3cb-298f-40bc-b71f-ae2b0013000d",
     "duration": "1521",
     "error": "\"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for the `Authorization` header to be explicitly omitted\"",
@@ -272,7 +272,7 @@
     "title": "Obituaries"
   },
   "web:dd8bf67e31417cfe": {
-    "attempts": 2,
+    "attempts": 3,
     "audio": null,
     "duration": "",
     "error": "\"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for the `Authorization` header to be explicitly omitted\"",
