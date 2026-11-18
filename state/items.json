@@ -1,4 +1,21 @@
 {
+  "pod:20d1737ac4c66f19": {
+    "attempts": 1,
+    "audio": "https://traffic.megaphone.fm/SCIM9016341232.mp3",
+    "duration": "3628",
+    "error": "\"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for the `Authorization` header to be explicitly omitted\"",
+    "id": "pod:20d1737ac4c66f19",
+    "kind": "podcast",
+    "link": "https://www.davidsenra.com/episode/brian-armstrong-2",
+    "notes": "Brian Armstrong is the co-founder and CEO of Coinbase . He explains how he rewires his own habits by writing things down over and over: first a goal of starting a billion-dollar tech company, then \"I love conflict\" to get past his fear of hard conversations as CEO. He talks about divine discontent, why he aims for fulfillment instead of happiness, and what Civilization taught him about tech trees and strategy. Brian walks through how he works now. He has 7 or 8 lead agents, a chief of staff agent, a prioritized inbox he clears with voice dictation, and \"Coinbase Brain,\" an internal system that builds a knowledge base for every employee, team, and code repository. He explains why Coinbase's fine-tuned open-weight models can beat frontier models on narrow tasks like compliance reports. He also explains why he thinks 99.999% of transactions will soon be between agents, and why AI needs to be decentralized the way crypto decentralized finance. He covers why Coinbase is cutting third-party vendors as cyberattacks double year over year, why big gains in productivity haven't shown up in revenue yet, and why the real opportunity is the 96% of financial services revenue that traditional finance still holds. He describes four levels of AI-assisted investing that end with \"a private banker in your pocket.\" Finally, he explains why humanoid robots are the next step-change, and why his biotech company NewLimit won't bring them into the lab until they can work as baristas.\n\n Made possible ",
+    "order": 1,
+    "priority": true,
+    "published": "2026-11-18T09:00:00+00:00",
+    "source": "David Senra",
+    "source_key": "podcast:David Senra",
+    "status": "failed",
+    "title": "Divine Discontent, AI Agents & the Future of Money | Brian Armstrong, Coinbase"
+  },
   "pod:20d65286a3ae6b03": {
     "attempts": 3,
     "audio": "https://traffic.libsyn.com/secure/tedseides/CA_-_EP.527_Paul_Enright_-_AUDIO_V2.mp3?dest-id=482814",
@@ -136,7 +153,7 @@
     "title": "What It Means to Be a “Real” Entrepreneur | Michael Rubin, Fanatics"
   },
   "pod:cab65ad43041240b": {
-    "attempts": 1,
+    "attempts": 2,
     "audio": "https://pdst.fm/e/traffic.megaphone.fm/GLT1869825667.mp3",
     "duration": "7012",
     "error": "\"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for the `Authorization` header to be explicitly omitted\"",
@@ -236,5 +253,22 @@
     "source_key": "website:Stratechery",
     "status": "failed",
     "title": "Obituaries"
+  },
+  "web:dd8bf67e31417cfe": {
+    "attempts": 1,
+    "audio": null,
+    "duration": "",
+    "error": "\"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for the `Authorization` header to be explicitly omitted\"",
+    "id": "web:dd8bf67e31417cfe",
+    "kind": "website",
+    "link": "https://stratechery.com/2026/nvidia-earnings-office-convergence-os-wars-ai-edition/",
+    "notes": "Nvidia's earnings were boring, and also a statement as to why Jensen Huang probably isn't coming back; then, Microsoft and Anthropic ship dueling operating system updates.",
+    "order": 0,
+    "priority": false,
+    "published": "2026-11-18T11:00:00+00:00",
+    "source": "Stratechery",
+    "source_key": "website:Stratechery",
+    "status": "failed",
+    "title": "Nvidia Earnings; Office Convergence; OS Wars, AI Edition"
   }
 }
