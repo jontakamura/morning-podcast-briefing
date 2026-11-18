@@ -34,7 +34,7 @@
     "title": "Jensen Huang’s Downfall Is So Much More Than a Sex Scandal"
   },
   "pod:4e34cb11b8ccc162": {
-    "attempts": 2,
+    "attempts": 3,
     "audio": "https://traffic.megaphone.fm/CLS6783435309.mp3",
     "duration": "5062",
     "error": "\"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for the `Authorization` header to be explicitly omitted\"",
@@ -51,7 +51,7 @@
     "title": "Brad Gerstner & Geoffrey Canada - Raising the Floor for Every American Child - [Invest Like the Best, EP.501]"
   },
   "pod:591589f87c4e24e6": {
-    "attempts": 2,
+    "attempts": 3,
     "audio": "https://traffic.megaphone.fm/DSLLC2370821068.mp3",
     "duration": "2972",
     "error": "\"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for the `Authorization` header to be explicitly omitted\"",
@@ -134,6 +134,23 @@
     "source_key": "podcast:David Senra",
     "status": "failed",
     "title": "What It Means to Be a “Real” Entrepreneur | Michael Rubin, Fanatics"
+  },
+  "pod:cab65ad43041240b": {
+    "attempts": 1,
+    "audio": "https://pdst.fm/e/traffic.megaphone.fm/GLT1869825667.mp3",
+    "duration": "7012",
+    "error": "\"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for the `Authorization` header to be explicitly omitted\"",
+    "id": "pod:cab65ad43041240b",
+    "kind": "podcast",
+    "link": "",
+    "notes": "The Ringer’s Bill Simmons asks six burning questions about the NBA contenders. Then, Matt Belloni comes on to react to Robert Pattinson being cast as the new James Bond before discussing the Oscars. Finally, Amazon CEO Andy Jassy comes on to talk about his career, the future, and being a Giants fan.\n\n (0:00) Intro\n\n (2:11) NBA contender questions\n\n (27:43) Robert Pattinson is James Bond\n\n (35:08) Oscars and Hollywood talk\n\n (49:41) Andy Jassy interview\n\n Host: Bill Simmons\n\n Guests: Matt Belloni and Andy Jassy\n\n Producers: Chia Hao Tat and Eduardo Ocampo\n\n This episode is brought to you by State Farm. Create a Personalized Price Plan® today. https://www.statefarm.com/lp/football/ \n\n The Quarter Pounder With Cheese With Fries And A Drink. Now $8 for a limited time only. Only at McDonald’s. \n\n The Ringer is committed to responsible gaming. Please visit https://fanduel.com/playwithaplan to learn more about the resources and helplines. \n\n Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+    "order": 15,
+    "priority": false,
+    "published": "2026-11-17T23:41:00+00:00",
+    "source": "The Bill Simmons Podcast",
+    "source_key": "podcast:The Bill Simmons Podcast",
+    "status": "failed",
+    "title": "NBA Contender Questions, James Bond and Early Oscars Talk With Matt Belloni, and Amazon CEO Andy Jassy Stops By"
   },
   "pod:f0a1e294efcb38a1": {
     "attempts": 3,
