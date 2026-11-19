@@ -85,7 +85,7 @@
     "title": "#440 The Most Inspiring Autobiography I've Ever Read: Born of This Land: Chung Ju-yung"
   },
   "pod:5f901ee46edc439a": {
-    "attempts": 1,
+    "attempts": 2,
     "audio": "https://traffic.libsyn.com/secure/tedseides/CA_-_EP.528_Peter_Mintzberg_-_AUDIO_V2.mp3?dest-id=482814",
     "duration": "30:11",
     "error": "\"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for the `Authorization` header to be explicitly omitted\"",
@@ -153,9 +153,9 @@
     "title": "At The Money: Shopping in an Era of Surveillance Capitalism"
   },
   "pod:7d9a8b0e8e05d29b": {
-    "attempts": 1,
+    "attempts": 2,
     "audio": "https://traffic.megaphone.fm/GLT3302445177.mp3",
-    "duration": "4716",
+    "duration": "4713",
     "error": "\"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for the `Authorization` header to be explicitly omitted\"",
     "id": "pod:7d9a8b0e8e05d29b",
     "kind": "podcast",
@@ -255,7 +255,7 @@
     "title": "What Every Golfer Gets Wrong About Pain and Injuries w/ Par 4 Success"
   },
   "web:0f3470a478f22996": {
-    "attempts": 1,
+    "attempts": 2,
     "audio": null,
     "duration": "",
     "error": "\"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for the `Authorization` header to be explicitly omitted\"",
