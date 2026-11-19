@@ -84,6 +84,23 @@
     "status": "failed",
     "title": "#440 The Most Inspiring Autobiography I've Ever Read: Born of This Land: Chung Ju-yung"
   },
+  "pod:5f901ee46edc439a": {
+    "attempts": 1,
+    "audio": "https://traffic.libsyn.com/secure/tedseides/CA_-_EP.528_Peter_Mintzberg_-_AUDIO_V2.mp3?dest-id=482814",
+    "duration": "30:11",
+    "error": "\"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for the `Authorization` header to be explicitly omitted\"",
+    "id": "pod:5f901ee46edc439a",
+    "kind": "podcast",
+    "link": "https://tedseides.libsyn.com/evolution-of-digital-assets-at-grayscale-peter-mintzberg-ep528",
+    "notes": "Peter Mintzberg is CEO of Grayscale, one of the world's largest digital asset managers founded in 2013.\n Peter joined Grayscale two years ago after a career in strategy and M&A at Goldman Sachs, Apollo, and BlackRock. He saw digital assets as the next step in the evolution of traditional finance. Our conversation covers the rapid mainstream adoption of digital assets, Grayscale's transition from its pioneering trusts to a broad ETF platform, and opportunities beyond Bitcoin and Ethereum. We discuss active management in digital assets, the evolution of blockchain applications, and the changing regulatory environment. We then turn to Peter's view of what comes next, including the convergence of AI and tokenization, personalized portfolios, and a future where the distinction between liquid and illiquid assets fades away. See full disclaimer here . Learn More \n Follow Ted on X at @tseides or LinkedIn Subscribe to the mailing list Access Transcript with Premium Membership \n\n Editing and post-production work for this episode was provided by The Podcast Consultant",
+    "order": 6,
+    "priority": false,
+    "published": "2026-11-19T09:00:00+00:00",
+    "source": "Capital Allocators – Inside the Institutional Investment Industry",
+    "source_key": "podcast:Capital Allocators – Inside the Institutional Investment Industry",
+    "status": "failed",
+    "title": "Evolution of Digital Assets at Grayscale – Peter Mintzberg (EP.528)"
+  },
   "pod:776253b4c81302ed": {
     "attempts": 2,
     "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/4e4cd910-40a1-4619-a5f3-ae2b0012ffff/d1a72748-c528-4a61-baa7-b501011787d8/audio.mp3?utm_source=Podcast&in_playlist=5873a3cb-298f-40bc-b71f-ae2b0013000d",
@@ -134,6 +151,23 @@
     "source_key": "podcast:Masters in Business",
     "status": "failed",
     "title": "At The Money: Shopping in an Era of Surveillance Capitalism"
+  },
+  "pod:7d9a8b0e8e05d29b": {
+    "attempts": 1,
+    "audio": "https://traffic.megaphone.fm/GLT3302445177.mp3",
+    "duration": "4716",
+    "error": "\"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for the `Authorization` header to be explicitly omitted\"",
+    "id": "pod:7d9a8b0e8e05d29b",
+    "kind": "podcast",
+    "link": "",
+    "notes": "On Friday, the FAA ordered a nationwide ground stop after communication issues. Then, on Monday, United Airlines announced its own tech outage. That same day, several banks, including JPMorgan and Bank of America, said customers couldn’t withdraw funds because of a software bug. On Tuesday, the NSA announced that its communication systems had been hit by another outage. Then Apple reported difficulties of its own. And before all of this, the FBI issued a Flash warning that cybercriminals and state-aligned hackers were using AI to attack businesses and organizations around the world. Suddenly, the most important question in the news was: Why is everything breaking all at once?\n\n To figure out what’s happening and what we can do about it, Derek welcomes cybersecurity expert Nicole Perlroth and former U.S. deputy chief technology officer Jennifer Pahlka. Is this a coordinated, systemic hack? Is it just engineers rushing to fix vulnerabilities exposed by AI? Is the news media simply more sensitive to outages? Or is something else going on?\n\n Subscribe to our YouTube channel here:\nhttps://www.youtube.com/@PlainEnglishwithDerekThompson\n\n If you have questions, observations, or ideas for future episodes, email us at PlainEnglish@Spotify.com .\n\n Host: Derek Thompson\nGuests: Nicole Perlroth and Jennifer Pahlka\nProducer: Devon Baroldi\nAdditional Production Support: Ben Glicksman\n\n Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+    "order": 12,
+    "priority": false,
+    "published": "2026-11-19T11:00:00+00:00",
+    "source": "Plain English with Derek Thompson",
+    "source_key": "podcast:Plain English with Derek Thompson",
+    "status": "failed",
+    "title": "Why Everything Is Breaking All at Once"
   },
   "pod:832b9b336e4560e5": {
     "attempts": 3,
@@ -219,6 +253,23 @@
     "source_key": "podcast:The Sweet Spot - Golf Podcast",
     "status": "failed",
     "title": "What Every Golfer Gets Wrong About Pain and Injuries w/ Par 4 Success"
+  },
+  "web:0f3470a478f22996": {
+    "attempts": 1,
+    "audio": null,
+    "duration": "",
+    "error": "\"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for the `Authorization` header to be explicitly omitted\"",
+    "id": "web:0f3470a478f22996",
+    "kind": "website",
+    "link": "https://stratechery.com/2026/an-interview-with-eric-seufert-about-agentic-commerce/",
+    "notes": "An interview with Eric Seufert about agentic commerce, including why he thinks ads will be the answer, and why I want retailers who cater to agents.",
+    "order": 0,
+    "priority": false,
+    "published": "2026-11-19T11:00:00+00:00",
+    "source": "Stratechery",
+    "source_key": "website:Stratechery",
+    "status": "failed",
+    "title": "An Interview With Eric Seufert About Agentic Commerce"
   },
   "web:76a448bd2e04c52b": {
     "attempts": 3,
