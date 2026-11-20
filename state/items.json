@@ -101,6 +101,23 @@
     "status": "failed",
     "title": "Evolution of Digital Assets at Grayscale – Peter Mintzberg (EP.528)"
   },
+  "pod:652e6ec1142937a1": {
+    "attempts": 1,
+    "audio": "https://pdst.fm/e/traffic.megaphone.fm/GLT2384084815.mp3",
+    "duration": "7291",
+    "error": "\"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for the `Authorization` header to be explicitly omitted\"",
+    "id": "pod:652e6ec1142937a1",
+    "kind": "podcast",
+    "link": "",
+    "notes": "The Ringer’s Bill Simmons is joined by Joe House to react to the release of ‘GTA VI’ before diving into a mega-mailbag. Then, Tom Pelissero jumps on to discuss six NFL topics. Finally, House returns to make his Ringer 107 picks for Week 11 with Bill.\n\n (0:00) Intro\n\n (2:31) ‘GTA VI’ release reactions\n\n (6:18) Mailbag with Joe House\n\n (58:17) The Pick Six with Tom Pelissero\n\n (01:34:59) Ringer 107 Picks, Week 11\n\n Host: Bill Simmons\n\n Guests: Joe House and Tom Pelissero\n\n Producers: Chia Hao Tat and Eduardo Ocampo\n\n This episode is brought to you by State Farm. Create a Personalized Price Plan® today. https://www.statefarm.com/lp/football/ \n\n The Quarter Pounder With Cheese With Fries And A Drink. Now $8 for a limited time only. Only at McDonald’s. \n\n The Ringer is committed to responsible gaming. Please visit https://fanduel.com/playwithaplan to learn more about the resources and helplines. \n\n Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+    "order": 15,
+    "priority": false,
+    "published": "2026-11-20T03:06:00+00:00",
+    "source": "The Bill Simmons Podcast",
+    "source_key": "podcast:The Bill Simmons Podcast",
+    "status": "failed",
+    "title": "The Mega-Mailbag, Worst Wizards Contracts, Why Truffles Suck, Niners-Vikings and Week 11 Picks With Joe House and Tom Pelissero"
+  },
   "pod:776253b4c81302ed": {
     "attempts": 2,
     "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/4e4cd910-40a1-4619-a5f3-ae2b0012ffff/d1a72748-c528-4a61-baa7-b501011787d8/audio.mp3?utm_source=Podcast&in_playlist=5873a3cb-298f-40bc-b71f-ae2b0013000d",
@@ -270,6 +287,23 @@
     "source_key": "website:Stratechery",
     "status": "failed",
     "title": "An Interview With Eric Seufert About Agentic Commerce"
+  },
+  "web:5f57de3aee975710": {
+    "attempts": 1,
+    "audio": null,
+    "duration": "",
+    "error": "\"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for the `Authorization` header to be explicitly omitted\"",
+    "id": "web:5f57de3aee975710",
+    "kind": "website",
+    "link": "https://stratechery.com/2026/sharp-tech-on-video-jensens-not-coming-back-ai-shopping-the-iphone-duo/",
+    "notes": "Sharp Tech is, for the first time, available on video. You have three ways to consume it: YouTube, Spotify, and here on Stratechery",
+    "order": 0,
+    "priority": false,
+    "published": "2026-11-20T11:00:00+00:00",
+    "source": "Stratechery",
+    "source_key": "website:Stratechery",
+    "status": "failed",
+    "title": "Sharp Tech on Video: Jensen’s Not Coming Back, AI Shopping, The iPhone Duo"
   },
   "web:76a448bd2e04c52b": {
     "attempts": 3,
