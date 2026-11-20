@@ -102,7 +102,7 @@
     "title": "Evolution of Digital Assets at Grayscale – Peter Mintzberg (EP.528)"
   },
   "pod:652e6ec1142937a1": {
-    "attempts": 1,
+    "attempts": 2,
     "audio": "https://pdst.fm/e/traffic.megaphone.fm/GLT2384084815.mp3",
     "duration": "7291",
     "error": "\"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for the `Authorization` header to be explicitly omitted\"",
@@ -237,6 +237,23 @@
     "status": "failed",
     "title": "NBA Contender Questions, James Bond and Early Oscars Talk With Matt Belloni, and Amazon CEO Andy Jassy Stops By"
   },
+  "pod:d1364e03c1f21739": {
+    "attempts": 1,
+    "audio": "https://rss.art19.com/episodes/3cdeb162-b02e-40c3-b316-2889180d8294.mp3?rss_browser=BAhJIhRNb3JuaW5nQnJpZWZpbmcGOgZFVA%3D%3D--9602291aeb4b1fa4f6f87d3638f774fd5d04c709",
+    "duration": "00:37:00",
+    "error": "\"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for the `Authorization` header to be explicitly omitted\"",
+    "id": "pod:d1364e03c1f21739",
+    "kind": "podcast",
+    "link": "",
+    "notes": "This one is a little different. For a change, I’m the one in the hot seat. I was interviewed on stage by Zuhairah Washington, a senior vice president at Zillow . There were a lot of questions around AI, and how to be robust or anti-fragile in a fast-changing world. This was from a live event in Las Vegas with more than 3,000 real estate professionals in the audience. We get into what to automate in the age of AI and, more importantly, what to eliminate first; how to use AI as a strategist in your pocket; why booking a mini-retirement forces you to fix your systems; fear-setting; why I try to diversify my identity; the books I’ve reread the most; and much, much more. You don’t need to be in real estate to use any of it. Please enjoy!\n This episode is brought to you by: \n Gusto simple and easy payroll, HR, and benefits platform used by 500,000+ businesses: Gusto.com/Tim Incogni , which removes your personal data from the web, helping shield you from fraud, scams, and identity theft: Incogni.com/Tim (use code TIM at checkout and get 60% off an annual plan) For show notes and past guests on The Tim Ferriss Show , please visit tim.blog/podcast . \n For deals from sponsors of The Tim Ferriss Show , please visit tim.blog/podcast-sponsors \n Sign up for Tim’s email newsletter ( 5-Bullet Friday ) at tim.blog/friday . \n For transcripts of episodes, go to tim.blog/transcripts . \n Discover Tim’s books: tim.blog/books . \n Follow Tim: \n Twitter : twitter.com/tferriss \n Instagram : instagram.",
+    "order": 18,
+    "priority": false,
+    "published": "2026-11-20T17:00:00+00:00",
+    "source": "The Tim Ferriss Show",
+    "source_key": "podcast:The Tim Ferriss Show",
+    "status": "failed",
+    "title": "#890: Timeless Principles for Fast-Changing Times — Asymmetric Bets, Effectiveness Over Efficiency, Identity Diversification, and The Books I Keep Rereading"
+  },
   "pod:f0a1e294efcb38a1": {
     "attempts": 3,
     "audio": "https://pdst.fm/e/traffic.megaphone.fm/GLT4924946211.mp3",
@@ -289,7 +306,7 @@
     "title": "An Interview With Eric Seufert About Agentic Commerce"
   },
   "web:5f57de3aee975710": {
-    "attempts": 1,
+    "attempts": 2,
     "audio": null,
     "duration": "",
     "error": "\"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for the `Authorization` header to be explicitly omitted\"",
@@ -321,6 +338,23 @@
     "source_key": "website:Stratechery",
     "status": "failed",
     "title": "Apple Permissions Update, The New App Paradigm, My iPhone Duo Review"
+  },
+  "web:7e0d9c9837613ed4": {
+    "attempts": 1,
+    "audio": null,
+    "duration": "",
+    "error": "\"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for the `Authorization` header to be explicitly omitted\"",
+    "id": "web:7e0d9c9837613ed4",
+    "kind": "website",
+    "link": "https://stratechery.com/2026/down-in-dc/",
+    "notes": "Andrew made the fatal mistake of getting his hopes up for the Wizards; on Sharp Text he wonders how it all went wrong. (Photo by Todd Olszewski/Getty Images) \n\n Welcome back to This Week in Stratechery!\n\n As a reminder, each week, every Friday, we’re sending out this overview of content in the Stratechery bundle; highlighted links are free for everyone . Additionally, you have complete control over what we send to you. If you don’t want to receive This Week in Stratechery emails (there is no podcast), please uncheck the box in your delivery settings .\n\n On that note, here were a few of our favorites this week.\n\n Obituaries and Exceptionalism. After several days to mull the shocking departure of Jensen Huang, Ben’s article on Monday delivered an omnibus obituary for a variety of American eras that may now be ending. Tracing the decisions that made Huang great, the strategies that made him a target, the implications of his demise for the rest of the tech ecosystem, and a shift in the U.S. government’s perspective on tech companies — and specifically AI companies — to which Huang never quite adapted, Monday’s piece was both comprehensive and poignant. — Andrew Sharp \n\n Arguments About Agents. Recurring Stratechery guest and advertising expert Eric Seufert is often aligned with Ben in his view of the digital advertising landscape, which is why this week’s Stratechery Interview was fun: Ben is a big believer in the potential upside in agentic commerce, while Eric has been (correct",
+    "order": 0,
+    "priority": false,
+    "published": "2026-11-20T19:09:57+00:00",
+    "source": "Stratechery",
+    "source_key": "website:Stratechery",
+    "status": "failed",
+    "title": "2026.47: Down in DC"
   },
   "web:d080a1ad043724cc": {
     "attempts": 1,
