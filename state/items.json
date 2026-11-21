@@ -221,7 +221,7 @@
     "title": "What It Means to Be a “Real” Entrepreneur | Michael Rubin, Fanatics"
   },
   "pod:c4a4e2db0e039cdf": {
-    "attempts": 2,
+    "attempts": 3,
     "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/4e4cd910-40a1-4619-a5f3-ae2b0012ffff/57f9520c-8a4b-483a-a7a7-b508015cdf5a/audio.mp3?utm_source=Podcast&in_playlist=5873a3cb-298f-40bc-b71f-ae2b0013000d",
     "duration": "4090",
     "error": "\"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for the `Authorization` header to be explicitly omitted\"",
