@@ -50,6 +50,23 @@
     "status": "failed",
     "title": "Jensen Huang’s Downfall Is So Much More Than a Sex Scandal"
   },
+  "pod:4683af5c3ab9e1a4": {
+    "attempts": 1,
+    "audio": "https://traffic.megaphone.fm/SCIM8129984440.mp3",
+    "duration": "4182",
+    "error": "\"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for the `Authorization` header to be explicitly omitted\"",
+    "id": "pod:4683af5c3ab9e1a4",
+    "kind": "podcast",
+    "link": "https://www.davidsenra.com/episode/tobi-lutke-2",
+    "notes": "Tobi Lütke is the founder and CEO of Shopify . As a teenager, he donated blood at three German hospitals to buy a Riva TNT graphics card. He argues that founders like Jensen Huang are irreplaceable, and that \"there is no such thing as a succession for a founder.\" He recounts a conversation with Jeff Bezos about measuring the wealth entrepreneurs create for others, not just what they own. He thinks AI is ending the Web 2.0 programmer job and is best thought of as an instrument. Software, he expects, will become nearly bug-free. As an evangelist for entrepreneurship, he closes: new business formation is at an all-time high, and all you need to do is use technology to build tools or products that make other people's lives better.\n\n Show notes: https://www.davidsenra.com/episode/tobi-lutke-2 \n\n Made possible by \n\n Ramp: https://router.com \n\n AppLovin: https://applovin.com/senra \n\n OpenAI: https://chatgpt.com/get-dot \n\n Deel: https://deel.com/senra \n\n Chapters \n\n (00:00:00) Why founders like Jensen are irreplaceable\n\n (00:01:22) Donating blood 3 times to buy a Riva TNT\n\n (00:07:15) Tim Cook was still extending Steve's runway\n\n (00:10:47) Only founders can reinvent their companies\n\n (00:13:14) The 95% of Shopify he doesn't own\n\n (00:15:16) Rising violence will make founders opt out\n\n (00:16:07) Bezos wants a different rich list than the Forbes 400\n\n (00:24:33) Markets are the original superintelligence\n\n (00:26:58) Jensen reserved chips for the little guys\n\n (00:30:16) The computer",
+    "order": 1,
+    "priority": true,
+    "published": "2026-11-22T09:00:00+00:00",
+    "source": "David Senra",
+    "source_key": "podcast:David Senra",
+    "status": "failed",
+    "title": "There Is No Such Thing as Founder Succession | Tobi Lütke, Shopify"
+  },
   "pod:4e34cb11b8ccc162": {
     "attempts": 3,
     "audio": "https://traffic.megaphone.fm/CLS6783435309.mp3",
