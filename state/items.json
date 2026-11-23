@@ -84,6 +84,23 @@
     "status": "failed",
     "title": "Brad Gerstner & Geoffrey Canada - Raising the Floor for Every American Child - [Invest Like the Best, EP.501]"
   },
+  "pod:58f1e97bbf573ff5": {
+    "attempts": 1,
+    "audio": "https://traffic.libsyn.com/secure/tedseides/CA_-_EP.529_-_Chris_Merrill_-_AUDIO_V1.2.mp3?dest-id=482814",
+    "duration": "49:30",
+    "error": "\"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for the `Authorization` header to be explicitly omitted\"",
+    "id": "pod:58f1e97bbf573ff5",
+    "kind": "podcast",
+    "link": "https://tedseides.libsyn.com/alternative-real-assets-at-110-billion-harrison-street-christopher-merrill-ep529",
+    "notes": "Christopher Merrill is the Co-Founder and CEO of Harrison Street, a $110 billion alternative real assets manager that spans real estate, infrastructure, and credit.\n Our conversation covers investing in demographic-driven real estate and building a differentiated firm by challenging conventional wisdom and learning from mistakes. Learn More \n Follow Ted on X at @tseides or LinkedIn Subscribe to the mailing list Access Transcript with Premium Membership \n Editing and post-production work for this episode was provided by The Podcast Consultant",
+    "order": 6,
+    "priority": false,
+    "published": "2026-11-23T09:00:00+00:00",
+    "source": "Capital Allocators – Inside the Institutional Investment Industry",
+    "source_key": "podcast:Capital Allocators – Inside the Institutional Investment Industry",
+    "status": "failed",
+    "title": "Alternative Real Assets at $110 Billion Harrison Street – Christopher Merrill (EP.529)"
+  },
   "pod:591589f87c4e24e6": {
     "attempts": 3,
     "audio": "https://traffic.megaphone.fm/DSLLC2370821068.mp3",
@@ -100,6 +117,23 @@
     "source_key": "podcast:Founders",
     "status": "failed",
     "title": "#440 The Most Inspiring Autobiography I've Ever Read: Born of This Land: Chung Ju-yung"
+  },
+  "pod:5dfa2906318f2bee": {
+    "attempts": 1,
+    "audio": "https://pdst.fm/e/traffic.megaphone.fm/GLT4069540434.mp3",
+    "duration": "5814",
+    "error": "\"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for the `Authorization` header to be explicitly omitted\"",
+    "id": "pod:5dfa2906318f2bee",
+    "kind": "podcast",
+    "link": "",
+    "notes": "The Ringer’s Bill Simmons is joined by Cousin Sal after Vikings-49ers to recap the Week 11 games. Then, they Guess the Lines for Week 12 and review the new ‘Madden’ movie, before ending with Parent Corner.\n\n(00:00) Intro\n(01:40) Vikings-49ers\n(11:50) Remembering Tom Jackson\n(22:35) Jaguars-Giants\n(36:40) Bucs-Lions\n(40:30) Bears-Saints\n(44:05) Ravens-Panthers\n(46:30) Steelers-Eagles, Jets-Chargers\n(52:10) Raiders-Broncos, Dolphins-Bills, Titans-Cowboys\n(57:15) Guess the Lines\n(1:13:35) ‘Madden’ review\n(1:26:52) Parent Corner\n\nHost: Bill Simmons\nGuest: Cousin Sal\nProducers: Eduardo Ocampo, Chris Wohlers, and Tucker Tashjian\n\nThis episode is brought to you by State Farm. Create a Personalized Price Plan® today. https://www.statefarm.com/lp/football/ \n\n#ULTRACourtside could get you closer to the game! https://michelobultra.com/courtside MICHELOB ULTRA®️ COURTSIDE ’26 to ’27. No Purchase Necessary. Open to US residents 21+ Begins on 10/1/26 and ends on 6/30/27. Multiple entry periods. See Official Rules at https://michelobultra.com/courtside for free entry, entry deadlines, prizes, and details.\n\n The Ringer is committed to responsible gaming. Please visit https://fanduel.com/playwithaplan to learn more about the resources and helplines.\n\n Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+    "order": 15,
+    "priority": false,
+    "published": "2026-11-23T07:18:00+00:00",
+    "source": "The Bill Simmons Podcast",
+    "source_key": "podcast:The Bill Simmons Podcast",
+    "status": "failed",
+    "title": "A Purdy Special, Giants Among Us, RIP Teej, the ‘Madden’ Movie, and Guess the Lines With Cousin Sal"
   },
   "pod:5f901ee46edc439a": {
     "attempts": 3,
@@ -338,6 +372,23 @@
     "source_key": "website:Stratechery",
     "status": "failed",
     "title": "An Interview With Eric Seufert About Agentic Commerce"
+  },
+  "web:57282f4cfca0975d": {
+    "attempts": 1,
+    "audio": null,
+    "duration": "",
+    "error": "\"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for the `Authorization` header to be explicitly omitted\"",
+    "id": "web:57282f4cfca0975d",
+    "kind": "website",
+    "link": "https://stratechery.com/2026/amazon-earnings-the-chip-question-about-agents/",
+    "notes": "Amazon makes the case they are not like other compute providers, even as they signal the willingness to give up margin to serve the frontier.",
+    "order": 0,
+    "priority": false,
+    "published": "2026-11-23T11:00:00+00:00",
+    "source": "Stratechery",
+    "source_key": "website:Stratechery",
+    "status": "failed",
+    "title": "Amazon Earnings, The Chip Question, About Agents"
   },
   "web:5f57de3aee975710": {
     "attempts": 3,
