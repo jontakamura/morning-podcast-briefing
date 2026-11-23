@@ -51,7 +51,7 @@
     "title": "Jensen Huang’s Downfall Is So Much More Than a Sex Scandal"
   },
   "pod:4683af5c3ab9e1a4": {
-    "attempts": 2,
+    "attempts": 3,
     "audio": "https://traffic.megaphone.fm/SCIM8129984440.mp3",
     "duration": "4182",
     "error": "\"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for the `Authorization` header to be explicitly omitted\"",
@@ -65,7 +65,7 @@
     "source": "David Senra",
     "source_key": "podcast:David Senra",
     "status": "failed",
-    "title": "Why Founders Like Jensen Huang Are Irreplaceable | Tobi Lütke, Shopify"
+    "title": "Jensen Huang, AI & Why Founders Are Irreplaceable | Tobi Lütke, Shopify"
   },
   "pod:4e34cb11b8ccc162": {
     "attempts": 3,
