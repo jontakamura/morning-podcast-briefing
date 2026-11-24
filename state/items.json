@@ -1,13 +1,13 @@
 {
   "pod:068d4d3e68a8a932": {
-    "attempts": 1,
+    "attempts": 2,
     "audio": "https://pdst.fm/e/traffic.megaphone.fm/FSMI7914124591.mp3",
     "duration": "4219",
     "error": "\"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for the `Authorization` header to be explicitly omitted\"",
     "id": "pod:068d4d3e68a8a932",
     "kind": "podcast",
     "link": "https://fs.blog/knowledge-project-podcast/bing-gordon/",
-    "notes": "Bing Gordon is the former Chief Creative Officer of Electronic Arts and a partner at Kleiner Perkins .\n\n He spent more than a decade on Amazon’s board, a seat he got after bringing Jeff Bezos five ideas in writing. The first was Amazon Prime. Bing describes the week two directors told him they wanted to resign, and the fix he proposed: Bezos opens each meeting with what’s on his mind, and six-page memos replace slide decks.\n\n He explains Bezos’s first rule for the board, “first, do no harm,” and the “institutional no” Bezos wanted the board to help Amazon avoid. He lays out the three behaviors Bezos looks for in people who are right a lot, why Bezos dropped one-on-ones, and how every Amazon candidate faces a seven-person interview loop built on the leadership principles.\n\n Bing then turns to what games taught him. He explains why moving a game from an 80 to a 90 doubles sales, why Steven Spielberg recut films until nobody left their seat, and how expansion packs for The Sims shaped his pitch for Prime.\n\n He shares the David Ogilvy lessons that never made the books, including that 90% of people who recall an ad remember the headline and only 25% remember the body copy. He covers why founders stall at around 50, 150, and 500 employees, and his finding that 75% of startups that grew their valuation 4X in two years became unicorns.\n\n Finally, he recounts telling Steve Jobs he was wrong about what motivates gamers, and explains why the ideas investors laugh at, like Airbnb, Uber, ",
+    "notes": "Bing Gordon is the former Chief Creative Officer of Electronic Arts and a partner at Kleiner Perkins. \n\n He spent more than a decade on Amazon’s board, a seat he earned after bringing Jeff Bezos five ideas in writing—starting with Amazon Prime.\n\n In this conversation, Bing goes inside early Amazon board meetings, breaks down how game design mechanics explain consumer behavior, and reveals why the startup ideas investors laugh at often become category-defining companies.\n\n In this episode, Bing explains:\n\n - Amazon’s Playbook: Why Jeff Bezos opens meetings with what’s on his mind, replaces slide decks with six-page memos, relies on the board to prevent an “institutional no,” and dropped one-on-ones.\n\n - The 80-to-90 Quality Rule: Why moving a game from an 80 to a 90 doubles sales, why Steven Spielberg recut films until nobody left their seat, and how expansion packs for The Sims shaped his pitch for Amazon Prime.\n\n - The 4X Unicorn Signal: Why 75% of startups that quadruple their valuation in two years become unicorns, why founders stall at 50, 150, and 500 employees, and why ideas like Airbnb, Uber, and Spotify deserve a closer look.\n\n - Ogilvy’s Unwritten Lessons: The David Ogilvy advertising rules that never made his books, including why 90% of people recall an ad’s headline while only 25% remember the body copy.\n\n - What Steve Jobs Got Wrong: Recounting the conversation where Bing told Steve Jobs he misunderstood what motivates gamers.\n\n Learn More: https://fs.blog/knowled",
     "order": 16,
     "priority": false,
     "published": "2026-11-24T11:00:00+00:00",
@@ -17,7 +17,7 @@
     "title": "Learning From Bezos, Jobs, and Spielberg | Bing Gordon"
   },
   "pod:1dc86a4b25aa3dc6": {
-    "attempts": 1,
+    "attempts": 2,
     "audio": "https://traffic.libsyn.com/secure/5057bd84-0fb6-475e-9100-0e0177505be2/TLAO_DylanMcCabe_Release.mp3?dest-id=5075260",
     "duration": "40:17",
     "error": "\"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for the `Authorization` header to be explicitly omitted\"",
@@ -67,6 +67,23 @@
     "status": "failed",
     "title": "Single-Manager Hedge Funds, Pod Shops, and the Age of AI – Paul Enright (EP.527)"
   },
+  "pod:2249cb26be0ec7bc": {
+    "attempts": 1,
+    "audio": "https://traffic.megaphone.fm/CLS5759445410.mp3",
+    "duration": "3870",
+    "error": "\"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for the `Authorization` header to be explicitly omitted\"",
+    "id": "pod:2249cb26be0ec7bc",
+    "kind": "podcast",
+    "link": "",
+    "notes": "Scott Wu is the CEO and co-founder of Cognition, the company behind the AI coding agent Devin.\n\n Cognition made its first dollar of revenue in September 2024. Less than two years later, it crossed a $1 billion run rate, and Citi is rolling Devin out to about 14,000 engineers as it brings software projects in-house. We talk about what that means for the job of an engineer, and the trade-off between buying too much compute and not having enough to serve your customers. \n\n Scott thinks major breaches at some of the world's largest companies and government agencies are almost inevitable in the next six to 12 months. As AI agents start working in swarms, they're finding flaws that have gone unnoticed for years. I ask him what companies should be doing now and why he still thinks the attackers will lose in the long run. \n\n Please enjoy my conversation with Scott Wu.\n\n For the full show notes, transcript, and links to mentioned content, check out the episode page ⁠⁠ here ⁠⁠ .\n\n ----- \n\n Become a Colossus member to get our quarterly print magazine and private audio experience, including exclusive profiles and early access to select episodes. Subscribe at ⁠⁠ ⁠colossus.com/subscribe⁠ ⁠⁠ .\n\n ----- \n\n ⁠⁠ ⁠Ramp’s⁠ ⁠⁠ mission is to help companies manage their spend in a way that reduces expenses and frees up time for teams to work on more valuable projects. Go to ⁠⁠ ⁠⁠ramp.com/invest⁠⁠ ⁠⁠ to sign up for free and get a $250 welcome bonus. \n\n ----- \n\n Trusted by thousands of businesses, ⁠⁠ ⁠",
+    "order": 2,
+    "priority": true,
+    "published": "2026-11-24T15:00:00+00:00",
+    "source": "Invest Like the Best with Patrick O'Shaughnessy",
+    "source_key": "podcast:Invest Like the Best with Patrick O'Shaughnessy",
+    "status": "failed",
+    "title": "Scott Wu on Cybersecurity, Compute, and the Future of Engineering - [Invest Like the Best, EP.502]"
+  },
   "pod:2b24ed2e39d077e1": {
     "attempts": 3,
     "audio": "https://traffic.megaphone.fm/GLT4017114951.mp3",
@@ -85,14 +102,14 @@
     "title": "Jensen Huang’s Downfall Is So Much More Than a Sex Scandal"
   },
   "pod:421ec9f1b8c6ce25": {
-    "attempts": 1,
+    "attempts": 2,
     "audio": "https://traffic.megaphone.fm/GLT1151153037.mp3",
     "duration": "3495",
     "error": "\"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for the `Authorization` header to be explicitly omitted\"",
     "id": "pod:421ec9f1b8c6ce25",
     "kind": "podcast",
     "link": "",
-    "notes": "Just when Derek thought he could take a week off from covering AI, Jensen Huang’s return to Nvidia’s leadership has pulled him right back in! To help us follow this insanely paced news cycle, Derek brings back venture capitalist Paul Kedrosky, one of the show’s most prominent AI bubble skeptics. They discuss the Trump administration’s involvement in this decision, Silicon Valley’s culture of celebrity CEOs, whether the industry is finally showing signs of a bubble bursting, and what the recent wave of technology outages could mean for the future of cybersecurity.\n\n Subscribe to our YouTube channel here:\nhttps://www.youtube.com/@PlainEnglishwithDerekThompson\n\n If you have questions, observations, or ideas for future episodes, email us at PlainEnglish@Spotify.com .\n\n Host: Derek Thompson\nGuest: Paul Kedrosky\nProducer: Devon Baroldi\nAdditional Production Support: Ben Glicksman\n\n Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+    "notes": "Just when Derek thought he could take a week off from covering AI, Jensen Huang’s return to Nvidia’s leadership has pulled him right back in! To help us follow this insanely paced news cycle, Derek brings back venture capitalist Paul Kedrosky, one of the show’s most prominent AI bubble skeptics. They discuss the Trump administration’s involvement in this decision, Silicon Valley’s culture of celebrity CEOs, whether the industry is finally showing signs of a bubble bursting, and what the recent wave of technology outages could mean for the future of cybersecurity.\n\n Subscribe to our YouTube channel here:\nhttps://www.youtube.com/@PlainEnglishwithDerekThompson\n\n If you have questions, observations, or ideas for future episodes, email us at PlainEnglish@Spotify.com .\n\n Host: Derek Thompson\nGuest: Paul Kedrosky\nProducer: Devon Baroldi\nAdditional Production Support: Ben Glicksman\n\n This episode is brought to you by Jira by Atlassian.\nVisit ⁠https://JPMorganChase.com/CenterForGeopolitics⁠\n\n Learn more about your ad choices. Visit podcastchoices.com/adchoices",
     "order": 12,
     "priority": false,
     "published": "2026-11-24T11:00:00+00:00",
@@ -322,6 +339,23 @@
     "status": "failed",
     "title": "What It Means to Be a “Real” Entrepreneur | Michael Rubin, Fanatics"
   },
+  "pod:b4ccc2df9dbbe090": {
+    "attempts": 1,
+    "audio": "https://pdst.fm/e/traffic.megaphone.fm/GLT8966580035.mp3",
+    "duration": "8432",
+    "error": "\"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for the `Authorization` header to be explicitly omitted\"",
+    "id": "pod:b4ccc2df9dbbe090",
+    "kind": "podcast",
+    "link": "",
+    "notes": "The Ringer’s Bill Simmons is joined by Doc Rivers to discuss a variety of NBA topics, including Wemby’s dominance, Boston’s rough stretch, and much more. Then, Joe House joins Bill to dive into a food-filled mailbag before they make their Ringer 107 picks!\n\n(00:00) Intro\n(03:00) Wemby’s dominance this season\n(22:18) Damian Lillard and the Trail Blazers\n(28:00) Doc on the Lakers, Rockets, and Timberwolves\n(38:00) 76ers, V.J. Edgecombe, and LeBron\n(42:28) Boston’s rough slide\n(55:17) What should OKC do?\n(59:05) The Hawks\n(1:01:50) Miami’s heating up\n(1:09:43) Eddie Johnson-Draymond Green back and forth\n(1:16:23) ‘MNF’ recap\n(1:20:56) Mailbag with House\n(1:46:50) Ringer 107, Week 12\n\n Host: Bill Simmons\nGuest: Doc Rivers and Joe House\nProducers: Eduardo Ocampo, Chris Wohlers, and Tucker Tashjian\n\nThis episode is brought to you by State Farm. Create a Personalized Price Plan® today. https://www.statefarm.com/lp/football/ \n\n Download Uber Eats and order now. http://ubereats.com \n\n The Ringer is committed to responsible gaming. Please visit https://fanduel.com/playwithaplan to learn more about the resources and helplines.\n\n Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+    "order": 15,
+    "priority": false,
+    "published": "2026-11-24T22:17:00+00:00",
+    "source": "The Bill Simmons Podcast",
+    "source_key": "podcast:The Bill Simmons Podcast",
+    "status": "failed",
+    "title": "Wemby vs. Kareem, Miami’s Heat, Celts Panic, a Food Mailbag, and NFL Holiday Picks With Doc Rivers and Joe House"
+  },
   "pod:c4a4e2db0e039cdf": {
     "attempts": 3,
     "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/4e4cd910-40a1-4619-a5f3-ae2b0012ffff/57f9520c-8a4b-483a-a7a7-b508015cdf5a/audio.mp3?utm_source=Podcast&in_playlist=5873a3cb-298f-40bc-b71f-ae2b0013000d",
@@ -442,7 +476,7 @@
     "title": "Amazon Earnings, The Chip Question, About Agents"
   },
   "web:5d6ba5f9e11f3d4f": {
-    "attempts": 1,
+    "attempts": 2,
     "audio": null,
     "duration": "",
     "error": "\"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for the `Authorization` header to be explicitly omitted\"",
