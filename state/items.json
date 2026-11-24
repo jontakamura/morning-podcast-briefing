@@ -1,4 +1,38 @@
 {
+  "pod:068d4d3e68a8a932": {
+    "attempts": 1,
+    "audio": "https://pdst.fm/e/traffic.megaphone.fm/FSMI7914124591.mp3",
+    "duration": "4219",
+    "error": "\"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for the `Authorization` header to be explicitly omitted\"",
+    "id": "pod:068d4d3e68a8a932",
+    "kind": "podcast",
+    "link": "https://fs.blog/knowledge-project-podcast/bing-gordon/",
+    "notes": "Bing Gordon is the former Chief Creative Officer of Electronic Arts and a partner at Kleiner Perkins .\n\n He spent more than a decade on Amazon’s board, a seat he got after bringing Jeff Bezos five ideas in writing. The first was Amazon Prime. Bing describes the week two directors told him they wanted to resign, and the fix he proposed: Bezos opens each meeting with what’s on his mind, and six-page memos replace slide decks.\n\n He explains Bezos’s first rule for the board, “first, do no harm,” and the “institutional no” Bezos wanted the board to help Amazon avoid. He lays out the three behaviors Bezos looks for in people who are right a lot, why Bezos dropped one-on-ones, and how every Amazon candidate faces a seven-person interview loop built on the leadership principles.\n\n Bing then turns to what games taught him. He explains why moving a game from an 80 to a 90 doubles sales, why Steven Spielberg recut films until nobody left their seat, and how expansion packs for The Sims shaped his pitch for Prime.\n\n He shares the David Ogilvy lessons that never made the books, including that 90% of people who recall an ad remember the headline and only 25% remember the body copy. He covers why founders stall at around 50, 150, and 500 employees, and his finding that 75% of startups that grew their valuation 4X in two years became unicorns.\n\n Finally, he recounts telling Steve Jobs he was wrong about what motivates gamers, and explains why the ideas investors laugh at, like Airbnb, Uber, ",
+    "order": 16,
+    "priority": false,
+    "published": "2026-11-24T11:00:00+00:00",
+    "source": "The Knowledge Project",
+    "source_key": "podcast:The Knowledge Project",
+    "status": "failed",
+    "title": "Learning From Bezos, Jobs, and Spielberg | Bing Gordon"
+  },
+  "pod:1dc86a4b25aa3dc6": {
+    "attempts": 1,
+    "audio": "https://traffic.libsyn.com/secure/5057bd84-0fb6-475e-9100-0e0177505be2/TLAO_DylanMcCabe_Release.mp3?dest-id=5075260",
+    "duration": "40:17",
+    "error": "\"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for the `Authorization` header to be explicitly omitted\"",
+    "id": "pod:1dc86a4b25aa3dc6",
+    "kind": "podcast",
+    "link": "https://5057bd84-0fb6-475e-9100-0e0177505be2.libsyn.com/group-purchasing-in-roofing-with-dylan-mccabe-ep298",
+    "notes": "On this episode of Think Like an Owner, Alex Bridgeman talks with Dylan McCabe, who went from healthcare software sales to roofing and founded Limitless Roofing Group, a group purchasing organization (GPO) for roofing contractors. Dylan explains how he borrowed the buying-group model from healthcare, landed SRS Distribution as the first supplier partner, and bootstrapped the business through slow early years. The two also look at how a GPO makes money without charging members, and what's squeezing roofing owners in a down market.\n They discuss: - How a GPO works day to day, and why members keep buying through their existing supplier reps - Solving the chicken-and-egg problem of landing a supplier deal before having members - Where GPO revenue comes from, including admin fees, referral fees, and quarterly rebates passed on to members - Lessons from bootstrapping, including the case for keeping a day job and writing a clear partnership agreement - How higher deductibles and actual cash value policies are changing roofing sales and pushing owners toward financing and new product lines\n Roofing owners, contractors in other trades, and anyone curious about buying cooperatives will find practical takeaways in Alex and Dylan's conversation.\n Topics:\n (00:00:00) - Intro (00:01:32) - From healthcare sales to roofing (00:04:03) - How healthcare GPOs inspired Limitless (00:05:30) - What members value most (00:06:29) - Day-to-day life as a GPO member (00:11:04) - Solving the chicken-and-",
+    "order": 19,
+    "priority": false,
+    "published": "2026-11-24T11:00:00+00:00",
+    "source": "Think Like an Owner",
+    "source_key": "podcast:Think Like an Owner",
+    "status": "failed",
+    "title": "Group Purchasing in Roofing with Dylan McCabe - EP.298"
+  },
   "pod:20d1737ac4c66f19": {
     "attempts": 3,
     "audio": "https://traffic.megaphone.fm/SCIM9016341232.mp3",
@@ -49,6 +83,23 @@
     "source_key": "podcast:Plain English with Derek Thompson",
     "status": "failed",
     "title": "Jensen Huang’s Downfall Is So Much More Than a Sex Scandal"
+  },
+  "pod:421ec9f1b8c6ce25": {
+    "attempts": 1,
+    "audio": "https://traffic.megaphone.fm/GLT1151153037.mp3",
+    "duration": "3495",
+    "error": "\"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for the `Authorization` header to be explicitly omitted\"",
+    "id": "pod:421ec9f1b8c6ce25",
+    "kind": "podcast",
+    "link": "",
+    "notes": "Just when Derek thought he could take a week off from covering AI, Jensen Huang’s return to Nvidia’s leadership has pulled him right back in! To help us follow this insanely paced news cycle, Derek brings back venture capitalist Paul Kedrosky, one of the show’s most prominent AI bubble skeptics. They discuss the Trump administration’s involvement in this decision, Silicon Valley’s culture of celebrity CEOs, whether the industry is finally showing signs of a bubble bursting, and what the recent wave of technology outages could mean for the future of cybersecurity.\n\n Subscribe to our YouTube channel here:\nhttps://www.youtube.com/@PlainEnglishwithDerekThompson\n\n If you have questions, observations, or ideas for future episodes, email us at PlainEnglish@Spotify.com .\n\n Host: Derek Thompson\nGuest: Paul Kedrosky\nProducer: Devon Baroldi\nAdditional Production Support: Ben Glicksman\n\n Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+    "order": 12,
+    "priority": false,
+    "published": "2026-11-24T11:00:00+00:00",
+    "source": "Plain English with Derek Thompson",
+    "source_key": "podcast:Plain English with Derek Thompson",
+    "status": "failed",
+    "title": "Jensen Huang’s Shocking Return to Nvidia"
   },
   "pod:4683af5c3ab9e1a4": {
     "attempts": 3,
@@ -389,6 +440,23 @@
     "source_key": "website:Stratechery",
     "status": "failed",
     "title": "Amazon Earnings, The Chip Question, About Agents"
+  },
+  "web:5d6ba5f9e11f3d4f": {
+    "attempts": 1,
+    "audio": null,
+    "duration": "",
+    "error": "\"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for the `Authorization` header to be explicitly omitted\"",
+    "id": "web:5d6ba5f9e11f3d4f",
+    "kind": "website",
+    "link": "https://stratechery.com/2026/the-individual-exception/",
+    "notes": "Listen to this post : \n\n Log in to listen \n\n Since Thursday:\n\n I have created a Sharp Studio service application that manages all of the Sharp Tech studio cameras, lights, mixer, and various other devices. That service can be accessed by a Windows app on the studio PC, an iPhone app, a web app, or an Elgato Stream Deck; every device in the room needed to record an episode is fully remote controlled. \n\n I have created multiple single-use iOS apps for cataloguing and measuring items and designed and 3D-printed a measurement rig. I have also designed and purchased the items for several dedicated hardware devices, including a device for direct interaction with an agent, and dedicated display devices for the studio. \n\n I have created a full-fledged iOS app (designed for the Duo, but it works on regular iPhones) for accessing the various computers I manage; it works across screen sharing, terminals, and KVM switches. It works on Mac, Linux, and Windows. I honestly think it’s the best screen sharing client ever made. I already use it daily. \n\n Along the way I created a small harness for my agent such that it not only choreographs subagents, but also farms out work to various computers I own, depending on the load: a Mac for iOS development, a gaming PC for GPU-related work, and a Linux server for everything else. That work is tracked on a custom status board that runs on every TV in my house, as an iOS app, and as a Telegram bot.\n\n All of this would have taken teams of people weeks ",
+    "order": 0,
+    "priority": false,
+    "published": "2026-11-24T11:00:00+00:00",
+    "source": "Stratechery",
+    "source_key": "website:Stratechery",
+    "status": "failed",
+    "title": "The Individual Exception"
   },
   "web:5f57de3aee975710": {
     "attempts": 3,
