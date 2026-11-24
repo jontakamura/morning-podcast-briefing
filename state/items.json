@@ -85,7 +85,7 @@
     "title": "Brad Gerstner & Geoffrey Canada - Raising the Floor for Every American Child - [Invest Like the Best, EP.501]"
   },
   "pod:58f1e97bbf573ff5": {
-    "attempts": 1,
+    "attempts": 2,
     "audio": "https://traffic.libsyn.com/secure/tedseides/CA_-_EP.529_-_Chris_Merrill_-_AUDIO_V1.2.mp3?dest-id=482814",
     "duration": "49:30",
     "error": "\"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for the `Authorization` header to be explicitly omitted\"",
@@ -119,7 +119,7 @@
     "title": "#440 The Most Inspiring Autobiography I've Ever Read: Born of This Land: Chung Ju-yung"
   },
   "pod:5dfa2906318f2bee": {
-    "attempts": 1,
+    "attempts": 2,
     "audio": "https://pdst.fm/e/traffic.megaphone.fm/GLT4069540434.mp3",
     "duration": "5814",
     "error": "\"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for the `Authorization` header to be explicitly omitted\"",
@@ -374,7 +374,7 @@
     "title": "An Interview With Eric Seufert About Agentic Commerce"
   },
   "web:57282f4cfca0975d": {
-    "attempts": 1,
+    "attempts": 2,
     "audio": null,
     "duration": "",
     "error": "\"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for the `Authorization` header to be explicitly omitted\"",
