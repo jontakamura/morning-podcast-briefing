@@ -16,6 +16,23 @@
     "status": "failed",
     "title": "Learning From Bezos, Jobs, and Spielberg | Bing Gordon"
   },
+  "pod:0e11716dcda08142": {
+    "attempts": 1,
+    "audio": "https://rss.art19.com/episodes/998ca052-7244-44c4-8eb7-5bc635667572.mp3?rss_browser=BAhJIhRNb3JuaW5nQnJpZWZpbmcGOgZFVA%3D%3D--9602291aeb4b1fa4f6f87d3638f774fd5d04c709",
+    "duration": "02:21:30",
+    "error": "\"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for the `Authorization` header to be explicitly omitted\"",
+    "id": "pod:0e11716dcda08142",
+    "kind": "podcast",
+    "link": "",
+    "notes": "Henry Shukman ( @henryshukman ) is an authorized Zen master in the Sanbo Zen lineage and an award-winning poet and novelist, the author of One Blade of Grass and Original Love . He is the co-founder and lead teacher of The Way , a meditation app that takes you down a single guided path, step by step, and you can try it free for 30 days at TheWayApp.com/Tim . Please enjoy! \n This episode is brought to you by: \n Momentous high-quality creatine for cognitive and muscular support: LiveMomentous.com/Tim (up to 35% off your first order with code TIM) Timeline Mitopure, a highly pure form of Urolithin A that supports mitochondrial health and cellular renewal: Timeline.com/Tim (20% off for a limited time) ProLon science-backed Fasting Mimicking Diet that helps activate cellular renewal through fasting, while still eating nourishing meals: ProLonLife.com/Tim (15% off sitewide plus a $40 bonus gift when you subscribe to their 5-Day Program) AG1 all-in-one nutritional supplement: DrinkAG1.com/Tim (25% off when you subscribe, for a limited time) * \n For show notes and past guests on The Tim Ferriss Show , please visit tim.blog/podcast . \n For deals from sponsors of The Tim Ferriss Show , please visit tim.blog/podcast-sponsors \n Sign up for Tim’s email newsletter ( 5-Bullet Friday ) at tim.blog/friday . \n For transcripts of episodes, go to tim.blog/transcripts . \n Discover Tim’s books: tim.blog/books . \n Follow Tim: \n Twitter : twitter.com/tferriss \n Instagram : instagram.com/timferriss \n",
+    "order": 18,
+    "priority": false,
+    "published": "2026-11-25T23:30:00+00:00",
+    "source": "The Tim Ferriss Show",
+    "source_key": "podcast:The Tim Ferriss Show",
+    "status": "failed",
+    "title": "#891: Zen Master Henry Shukman on Love and Grief, Jhana 101, Ambition, and Poetry as a Shortcut"
+  },
   "pod:1dc86a4b25aa3dc6": {
     "attempts": 3,
     "audio": "https://traffic.libsyn.com/secure/5057bd84-0fb6-475e-9100-0e0177505be2/TLAO_DylanMcCabe_Release.mp3?dest-id=5075260",
@@ -34,7 +51,7 @@
     "title": "Group Purchasing in Roofing with Dylan McCabe - EP.298"
   },
   "pod:2038b74405885d85": {
-    "attempts": 2,
+    "attempts": 3,
     "audio": "https://mcdn.podbean.com/mf/web/zuwbtbbu2x8vfhrj/Harris_reaction_podcast8kzti.mp3",
     "duration": "4888",
     "error": "\"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for the `Authorization` header to be explicitly omitted\"",
@@ -305,6 +322,23 @@
     "status": "failed",
     "title": "At The Money: Shopping in an Era of Surveillance Capitalism"
   },
+  "pod:7cdf8620bd69dd65": {
+    "attempts": 1,
+    "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/4e4cd910-40a1-4619-a5f3-ae2b0012ffff/87ef3503-cef0-4353-9c32-b50d016c23ab/audio.mp3?utm_source=Podcast&in_playlist=5873a3cb-298f-40bc-b71f-ae2b0013000d",
+    "duration": "1528",
+    "error": "\"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for the `Authorization` header to be explicitly omitted\"",
+    "id": "pod:7cdf8620bd69dd65",
+    "kind": "podcast",
+    "link": "https://omny.fm/shows/masters-in-business/at-the-money-fan-favorite-who-is-wealthy-in-america-and-how-did-they-get-rich",
+    "notes": "We know America is a rich nation, but do you know exactly how rich? And who holds all of that wealth? \n On this special, fan favorite episode of ‘At The Money’, Barry speaks with Owen Zidar, a professor of Economics and Public Affairs at Princeton and Eric Zwick, a professor of Economic and Finance at the University of Chicago Booth School of Business about their latest book, “The Everywhere Millionaire: Who Is Really Rich in America and How They Got There.” \n Each week, “At the Money” discusses an important topic in money management. From portfolio construction to taxes and cutting down on fees, join Barry Ritholtz to learn the best ways to put your money to work. \n This episode was originally published on September 23rd, 2026.\n See omnystudio.com/listener for privacy information.",
+    "order": 9,
+    "priority": false,
+    "published": "2026-11-25T22:12:06+00:00",
+    "source": "Masters in Business",
+    "source_key": "podcast:Masters in Business",
+    "status": "failed",
+    "title": "At The Money Fan Favorite: Who Is Wealthy in America, and How Did They Get Rich?"
+  },
   "pod:7d9a8b0e8e05d29b": {
     "attempts": 3,
     "audio": "https://traffic.megaphone.fm/GLT3302445177.mp3",
@@ -357,14 +391,14 @@
     "title": "What It Means to Be a “Real” Entrepreneur | Michael Rubin, Fanatics"
   },
   "pod:8b09b76417bfdbbb": {
-    "attempts": 1,
+    "attempts": 2,
     "audio": "https://traffic.megaphone.fm/SCIM2553863461.mp3",
-    "duration": "3671",
+    "duration": "3643",
     "error": "\"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for the `Authorization` header to be explicitly omitted\"",
     "id": "pod:8b09b76417bfdbbb",
     "kind": "podcast",
     "link": "https://www.davidsenra.com/episode/jacob-hirshman",
-    "notes": "Jacob Hirshman is the co-founder of Erebor , a national bank he started with Palmer Luckey in May 2025. A lawyer who has spent his career in financial services regulation, Jacob saw that the new administration was likely to start approving new bank charters again after more than a decade with almost none. Erebor applied for its charter in June 2025 and opened in February 2026. Jacob explains how the collapse of Silicon Valley Bank shaped the idea, why Erebor holds itself to a 50% loan-to-deposit ratio when the average bank runs at 70%, and why it built its own bank core and underwriting software instead of buying them. He describes why he wants to build \"the farmer's bank for tech,\" and why 40% of his employees are former founders. He also shares what Sam Zell's habit of paying lenders more than they asked taught him about relationships, why Jamie Dimon's decision to open 1,000 new branches may pay off in the age of AI fraud, and how Erebor gives people around the world access to US dollar deposits. He also tells the story of his chaotic trip into Venezuela, the Tolkien character he wanted to name the company after, and the law school friend who told him he would never build a billion-dollar company.\n\n Show notes: https://www.davidsenra.com/episode/jacob-hirshman \n\n Made possible by \n\n Ramp: https://router.com \n\n Deel: https://deel.com/senra \n\n AppLovin: https://applovin.com/senra \n\n WorkOS: https://workos.com \n\n Chapters \n\n (00:00:00) The fastest-growing bank in American his",
+    "notes": "Jacob Hirshman is the co-founder of Erebor , a national bank he started with Palmer Luckey in May 2025. A lawyer who has spent his career in financial services regulation, Jacob saw that the new administration was likely to start approving new bank charters again after more than a decade with almost none. Erebor applied for its charter in June 2025 and opened in February 2026. Jacob explains how the collapse of Silicon Valley Bank shaped the idea, why Erebor holds itself to a 50% loan-to-deposit ratio when the average bank runs at 70%, and why it built its own bank core and underwriting software instead of buying them. He describes why he wants to build \"the farmer's bank for tech,\" and why 40% of his employees are former founders. He also shares what Sam Zell's habit of paying lenders more than they asked taught him about relationships, why Jamie Dimon's decision to open 1,000 new branches may pay off in the age of AI fraud, and how Erebor gives people around the world access to US dollar deposits. He also tells the story of his chaotic trip into Venezuela, the Tolkien character he wanted to name the company after, and the law school friend who told him he would never build a billion-dollar company.\n\n Show notes: https://www.davidsenra.com/episode/jacob-hirshman \n\n Made possible by \n\n Ramp: https://router.com \n\n Deel: https://deel.com/senra \n\n AppLovin: https://applovin.com/senra \n\n WorkOS: https://workos.com \n\n Chapters \n\n (00:00:00) Jacob Hirshman\n\n (00:00:39) Financial Cr",
     "order": 1,
     "priority": true,
     "published": "2026-11-25T09:00:00+00:00",
