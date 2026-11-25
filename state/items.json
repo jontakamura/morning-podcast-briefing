@@ -1,6 +1,6 @@
 {
   "pod:068d4d3e68a8a932": {
-    "attempts": 2,
+    "attempts": 3,
     "audio": "https://pdst.fm/e/traffic.megaphone.fm/FSMI7914124591.mp3",
     "duration": "4219",
     "error": "\"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for the `Authorization` header to be explicitly omitted\"",
@@ -17,7 +17,7 @@
     "title": "Learning From Bezos, Jobs, and Spielberg | Bing Gordon"
   },
   "pod:1dc86a4b25aa3dc6": {
-    "attempts": 2,
+    "attempts": 3,
     "audio": "https://traffic.libsyn.com/secure/5057bd84-0fb6-475e-9100-0e0177505be2/TLAO_DylanMcCabe_Release.mp3?dest-id=5075260",
     "duration": "40:17",
     "error": "\"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for the `Authorization` header to be explicitly omitted\"",
@@ -68,7 +68,7 @@
     "title": "Single-Manager Hedge Funds, Pod Shops, and the Age of AI – Paul Enright (EP.527)"
   },
   "pod:2249cb26be0ec7bc": {
-    "attempts": 1,
+    "attempts": 2,
     "audio": "https://traffic.megaphone.fm/CLS5759445410.mp3",
     "duration": "3870",
     "error": "\"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for the `Authorization` header to be explicitly omitted\"",
@@ -102,7 +102,7 @@
     "title": "Jensen Huang’s Downfall Is So Much More Than a Sex Scandal"
   },
   "pod:421ec9f1b8c6ce25": {
-    "attempts": 2,
+    "attempts": 3,
     "audio": "https://traffic.megaphone.fm/GLT1151153037.mp3",
     "duration": "3495",
     "error": "\"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for the `Authorization` header to be explicitly omitted\"",
@@ -340,7 +340,7 @@
     "title": "What It Means to Be a “Real” Entrepreneur | Michael Rubin, Fanatics"
   },
   "pod:b4ccc2df9dbbe090": {
-    "attempts": 1,
+    "attempts": 2,
     "audio": "https://pdst.fm/e/traffic.megaphone.fm/GLT8966580035.mp3",
     "duration": "8432",
     "error": "\"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for the `Authorization` header to be explicitly omitted\"",
@@ -476,7 +476,7 @@
     "title": "Amazon Earnings, The Chip Question, About Agents"
   },
   "web:5d6ba5f9e11f3d4f": {
-    "attempts": 2,
+    "attempts": 3,
     "audio": null,
     "duration": "",
     "error": "\"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for the `Authorization` header to be explicitly omitted\"",
