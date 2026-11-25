@@ -33,6 +33,23 @@
     "status": "failed",
     "title": "Group Purchasing in Roofing with Dylan McCabe - EP.298"
   },
+  "pod:2038b74405885d85": {
+    "attempts": 1,
+    "audio": "https://mcdn.podbean.com/mf/web/zuwbtbbu2x8vfhrj/Harris_reaction_podcast8kzti.mp3",
+    "duration": "4888",
+    "error": "\"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for the `Authorization` header to be explicitly omitted\"",
+    "id": "pod:2038b74405885d85",
+    "kind": "podcast",
+    "link": "https://brettroberthall.podbean.com/e/ep-274-reaction-to-sam-harris-on-triggernometry-and-his-ai-apocalypse/",
+    "notes": "Sam Harris ( @samharrisorg ) recently appeared on Triggernometry ( @triggerpod ) and was Making all sorts of Sense on Iran, certain aspects of politics and culture and...then they all started talking Artificial Intelligence. All three agreed they were doomers. Sam claims not to have a \"theory of mind\" for those who do not embrace the arguments he makes for doom and the existential threat of AI in particular. Here I unpack, and I would argue, dismantle, a number of very specific arguments he makes (or in many cases simply fails to make, or fails to make contact with the relevant physics and epistemology underpinning much of his concerns). This is fun to make and frustrating in equal measure. Sam claims not to have changed his mind much in over a decade. Nor have I, ever since Bostrom's book \"Superintelligence\" was published and I found the philosophy - specifically epistemology, as well as the \"scientific grounding\" - wanting (to be euphemistic about it - in truth there are many absurd claims simply ruled out by the actual laws of physics as we know them). In any case: enjoy!",
+    "order": 20,
+    "priority": false,
+    "published": "2026-11-25T06:48:07+00:00",
+    "source": "ToKCast",
+    "source_key": "podcast:ToKCast",
+    "status": "failed",
+    "title": "Ep 274: Reaction to Sam Harris on Triggernometry.  - and his AI Apocalypse."
+  },
   "pod:20d1737ac4c66f19": {
     "attempts": 3,
     "audio": "https://traffic.megaphone.fm/SCIM9016341232.mp3",
@@ -68,7 +85,7 @@
     "title": "Single-Manager Hedge Funds, Pod Shops, and the Age of AI – Paul Enright (EP.527)"
   },
   "pod:2249cb26be0ec7bc": {
-    "attempts": 2,
+    "attempts": 3,
     "audio": "https://traffic.megaphone.fm/CLS5759445410.mp3",
     "duration": "3870",
     "error": "\"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for the `Authorization` header to be explicitly omitted\"",
@@ -340,7 +357,7 @@
     "title": "What It Means to Be a “Real” Entrepreneur | Michael Rubin, Fanatics"
   },
   "pod:b4ccc2df9dbbe090": {
-    "attempts": 2,
+    "attempts": 3,
     "audio": "https://pdst.fm/e/traffic.megaphone.fm/GLT8966580035.mp3",
     "duration": "8432",
     "error": "\"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for the `Authorization` header to be explicitly omitted\"",
