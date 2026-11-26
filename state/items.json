@@ -17,7 +17,7 @@
     "title": "Learning From Bezos, Jobs, and Spielberg | Bing Gordon"
   },
   "pod:0e11716dcda08142": {
-    "attempts": 2,
+    "attempts": 3,
     "audio": "https://rss.art19.com/episodes/998ca052-7244-44c4-8eb7-5bc635667572.mp3?rss_browser=BAhJIhRNb3JuaW5nQnJpZWZpbmcGOgZFVA%3D%3D--9602291aeb4b1fa4f6f87d3638f774fd5d04c709",
     "duration": "02:21:30",
     "error": "\"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for the `Authorization` header to be explicitly omitted\"",
@@ -323,7 +323,7 @@
     "title": "At The Money: Shopping in an Era of Surveillance Capitalism"
   },
   "pod:7cdf8620bd69dd65": {
-    "attempts": 2,
+    "attempts": 3,
     "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/4e4cd910-40a1-4619-a5f3-ae2b0012ffff/87ef3503-cef0-4353-9c32-b50d016c23ab/audio.mp3?utm_source=Podcast&in_playlist=5873a3cb-298f-40bc-b71f-ae2b0013000d",
     "duration": "1528",
     "error": "\"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for the `Authorization` header to be explicitly omitted\"",
